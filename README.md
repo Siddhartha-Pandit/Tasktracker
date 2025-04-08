@@ -77,9 +77,10 @@ TaskTracker is a Next.js (v15+) application for managing workspaces, projects, t
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/yourusername/tasktracker.git
-   cd tasktracker```
+   cd tasktracker
+   ```
 
 2. **installation**
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
